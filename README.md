@@ -19,7 +19,7 @@ In order to advance on the project development, the tools that have been chosen 
 -	Google Hangouts
 -	Trello
 
-###### Product Architecture
+###### Simulator Architecture
 ![Product Architecture](img/AWS_architecture.png)
 
 The file 
