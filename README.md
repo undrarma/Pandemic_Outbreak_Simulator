@@ -20,7 +20,7 @@ In order to advance on the project development, the tools that have been chosen 
 -	Trello
 
 ###### Product Architecture
-![Product Architecture](img/AWS Architecture.jpg)
+![Product Architecture](img/AWS_architecture.png)
 
 The file 
 
