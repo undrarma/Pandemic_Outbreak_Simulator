@@ -1,9 +1,6 @@
-# Cloud Computing Project #
-This is the repository for the Cloud Computing project.
-
-## Project First Draft  ##
 ### Functionality & Scope ###
-The goal of our application is to simulate the behavior of a virus outbreak within the population of a given location. It will receive a list of parameters from the user, which it will use for setting up the simulation environment. Parameters to be received are the following:
+
+The goal of the application is to simulate the behavior of a virus outbreak within the population of a given location. It will receive a list of parameters from the user, which it will use for setting up the simulation environment. Parameters to be received are the following:
 -    Duration of the following virus stages:
     -   Incubation Stage
     -   Symptomatic Stage
@@ -23,7 +20,7 @@ In order to advance on the project development, the tools that have been chosen 
 -	Trello
 
 ###### Product Architecture
-![Product Architecture](img/AWS Architecture.png)
+![Product Architecture](img/AWS Architecture.jpg)
 
 The file 
 
